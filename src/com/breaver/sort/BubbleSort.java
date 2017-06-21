@@ -8,7 +8,7 @@ package com.breaver.sort;
  *@date 2017年6月20日 下午6:30:24
  */
 public class BubbleSort {
-
+	public static int a[] = {5,4,1,5,6,7,9,2,1,3};
 	/**
 	 * @param args
 	 */
